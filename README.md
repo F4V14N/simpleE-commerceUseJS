@@ -1,3 +1,3 @@
 Simple e-commerce use Java Script
-Tugas Sistem Informasi Pertemuan 13
+Tugas Sistem Informasi 
 @2024 Favian
